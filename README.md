@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Daniel</h1>
 <h3 align="center">A somewhat relentless person relentlessly trying to learn programming</h3>
 
-[![](https://visitcount.itsvg.in/api?id=GyllenhaalSP&icon=0&color=1)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=GyllenhaalSP&icon=0&color=1)]
 
 - 🔭 I’m currently working on [Java17](https://github.com/GyllenhaalSP/java-learning17)
 
@@ -25,9 +25,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=GyllenhaalSP&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=GyllenhaalSP&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=GyllenhaalSP&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-<!--### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=GyllenhaalSP&limit=5&theme=dark&combine_all_yearly_contributions=true)-->
 
 ### 😂 Random Dev Meme
 <img src="https://rm.up.railway.app/" width="512px"/>
