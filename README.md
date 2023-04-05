@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Daniel</h1>
 <h3 align="center">A somewhat relentless person relentlessly trying to learn programming</h3>
 
-[![](https://visitcount.itsvg.in/api?id=GyllenhaalSP&icon=0&color=1)]
+![](https://visitcount.itsvg.in/api?id=GyllenhaalSP&icon=0&color=1)
 
 - 🔭 I’m currently working on [Java17](https://github.com/GyllenhaalSP/java-learning17)
 
