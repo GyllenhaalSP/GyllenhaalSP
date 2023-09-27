@@ -3,17 +3,17 @@
 
 ![](https://visitcount.itsvg.in/api?id=GyllenhaalSP&icon=0&color=1)
 
-- 🔭 I’m currently working on [Java17](https://github.com/GyllenhaalSP/java-learning17)
+- 🔭 I’m currently working on [Java17](https://github.com/GyllenhaalSP/DWES23-24)
 
-- 🔭 I’m currently working on [BBDD](https://github.com/GyllenhaalSP/BBDD)
+- 🔭 I’m currently working on [BBDD](https://github.com/GyllenhaalSP/DWEC23-24)
 
-- 🔭 I’m currently working on [RPG2D](https://github.com/GyllenhaalSP/RPG2D)
+- 🔭 I’m currently working on [RPG2D](https://github.com/GyllenhaalSP/DIW23-24)
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **PHP**
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **JavaScript**
 
-- 🌱 I’m currently learning **OracleSQL**
+- 🌱 I’m currently refreshing **HTML & CSS**
 
 - 📫 How to reach me [dalonsolaz@gmail.com](dalonsolaz@gmail.com)
 
