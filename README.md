@@ -3,11 +3,11 @@
 
 ![](https://visitcount.itsvg.in/api?id=GyllenhaalSP&icon=0&color=1)
 
-- 🔭 I’m currently working on [Java17](https://github.com/GyllenhaalSP/DWES23-24)
+- 🔭 I’m currently working on [DWES23-24](https://github.com/GyllenhaalSP/DWES23-24)
 
-- 🔭 I’m currently working on [BBDD](https://github.com/GyllenhaalSP/DWEC23-24)
+- 🔭 I’m currently working on [DWEC23-24](https://github.com/GyllenhaalSP/DWEC23-24)
 
-- 🔭 I’m currently working on [RPG2D](https://github.com/GyllenhaalSP/DIW23-24)
+- 🔭 I’m currently working on [DIW23-24](https://github.com/GyllenhaalSP/DIW23-24)
 
 - 🌱 I’m currently learning **PHP**
 
