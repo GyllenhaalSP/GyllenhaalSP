@@ -11,6 +11,8 @@
 
 - 🌱 I’m currently learning **PHP**
 
+- 🌱 I’m currently learning **C#**
+
 - 🌱 I’m currently learning **JavaScript**
 
 - 🌱 I’m currently refreshing **HTML & CSS**
