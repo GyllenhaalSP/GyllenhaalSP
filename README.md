@@ -1,4 +1,8 @@
-<h1 align="center">Hi 👋, I'm Daniel</h1>
+<h1 align="center">
+  <a href="https://github.com/GyllenhaalSP">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&duration=2500&pause=500&center=true&vCenter=true&random=false&width=500&lines=%C2%A1Buenas!+Soy+Daniel+%F0%9F%91%8B;Estudiante+de+DAW+%F0%9F%8E%93;Apasionado+de+la+programaci%C3%B3n+%F0%9F%A4%AA;C%23+%E2%9D%A4%EF%B8%8F" alt="Typing SVG" />
+  </a>
+</p>
 <h3 align="center">A somewhat relentless person relentlessly trying to learn programming</h3>
 
 ![](https://visitcount.itsvg.in/api?id=GyllenhaalSP&icon=0&color=1)
