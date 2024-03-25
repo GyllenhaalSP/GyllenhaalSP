@@ -7,21 +7,15 @@
 
 ![](https://visitcount.itsvg.in/api?id=GyllenhaalSP&icon=0&color=1)
 
-- 🔭 I’m currently working on [DWES23-24](https://github.com/GyllenhaalSP/DWES23-24)
+- 🔭 I’m currently working on several projects (not public yet!)
 
-- 🔭 I’m currently working on [DWEC23-24](https://github.com/GyllenhaalSP/DWEC23-24)
+- 🌱 I’m currently diving deeper into **C#** and the **.NET** ecosystem
 
-- 🔭 I’m currently working on [DIW23-24](https://github.com/GyllenhaalSP/DIW23-24)
+- 🌱 I’m currently working through **JavaScript, TypeScript & NodeJS**
 
-- 🌱 I’m currently learning **C#**
+- 🌐 Visit my Portfolio to know more about me and my projects! - [www.dalonsolaz.dev](https://www.dalonsolaz.dev)
 
-- 🌱 I’m currently learning **JavaScript & NodeJS**
-
-- 🌱 I’m currently refreshing **HTML & CSS**
-  
-- 🌱 I’m currently refreshing **Python**
-
-- 📫 How to reach me [dalonsolaz@gmail.com](dalonsolaz@gmail.com)
+- 📫 How to reach me [dalonsolaz@gmail.com](dalonsolaz@gmail.com) or [contacto@dalonsolaz.dev](contacto@dalonsolaz.dev)
 
 - ⚡ Fun fact: **I remember shit nobody ever cares to remember...**
 
@@ -30,7 +24,7 @@
 [![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://html.spec.whatwg.org/multipage/)
 [![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/es/docs/Web/CSS)
 [![JAVASCRIPT](https://img.shields.io/badge/JavaScript%20-%20black?style=for-the-badge&logo=javascript&logoColor=black&labelColor=%23F7DF1E&color=%23F7DF1E)](https://ecma-international.org/publications-and-standards/standards/ecma-262/)
-[![BOOTSTRAP](https://img.shields.io/badge/Bootstrap-%237952B3?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/docs/5.2/about/brand/)
+[![TAAILWINDCSS](https://img.shields.io/badge/TailwindCSS-%2306B6D4?style=for-the-badge&logo=tailwindcss&logoColor=%23000)]([https://getbootstrap.com/docs/5.2/about/brand/](https://tailwindcss.com))
 
 ## BACKEND
 ### LENGUAJES
