@@ -28,12 +28,14 @@
 
 ## BACKEND
 ### LENGUAJES
-[![PYTHON](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/)
 [![C#](https://img.shields.io/badge/C%23-%20%23512BD4?style=for-the-badge&logo=csharp&logoColor=white)](https://learn.microsoft.com/en-us/dotnet/csharp/)
+[![PYTHON](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/)
 [![PHP](https://img.shields.io/badge/PHP-%23777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net)
 [![JAVA](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)](https://www.oracle.com/java/)
 
 ### DB
+[![SQLServer](https://img.shields.io/badge/SQLServer-%23CC2927?style=for-the-badge&logo=microsoftsqlserver)](https://www.microsoft.com/en-us/sql-server/sql-server-2019)
+[![TRANSACT-SQL](https://img.shields.io/badge/TSQL-%23CC2927?style=for-the-badge&logo=microsoftsqlserver)](https://learn.microsoft.com/es-es/sql/t-sql)
 [![MYSQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
 [![MARIADB](https://img.shields.io/badge/MariaDB-%23003545.svg?style=for-the-badge&logo=mariadb&logoColor=white)](https://mariadb.org/)
 [![SQLITE](https://img.shields.io/badge/SQLite-%23003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white)](https://www.sqlite.org)
